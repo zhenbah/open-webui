@@ -22,7 +22,7 @@ Passionate about open-source AI? [Join our team →](https://careers.openwebui.c
 > Get **enhanced capabilities**, including **custom theming and branding**, **Service Level Agreement (SLA) support**, **Long-Term Support (LTS) versions**, and **more!**
 
 For more information, be sure to check out our [Open WebUI Documentation](https://docs.openwebui.com/).
-
+ 
 ## Key Features of Open WebUI ⭐
 
 - 🚀 **Effortless Setup**: Install seamlessly using Docker or Kubernetes (kubectl, kustomize or helm) for a hassle-free experience with support for both `:ollama` and `:cuda` tagged images.
